@@ -8,7 +8,7 @@ We used unnit test to make sure the data was correct.
 
 Those two processes, the data extraction and the data validation, were made using Databricks Notebooks and their triggering is scheduled using Databricks Jobs.
 
-<img src="/workspaces/databricks_end_to_end/project/static/DatabricksJobs.png" alt="Jobs output">
+<img src="https://github.com/bugarin10/databricks_end_to_end/blob/main/project/static/DatabricksJobs.png" alt="Jobs output">
 
 Finally, the data was used to create a dashboard using Tableau.
 
